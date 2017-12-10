@@ -4,11 +4,6 @@
 		var divHeight = $(window).height()*1;	
 		var divIndex = $(window).scrollTop() / divHeight;
 		
-		
-		console.log(divIndex);
-				console.log(divHeight);
-
-		
 	$(function () {
    function runIt() {
       $('#fond19 img').animate({"opacity":"0.4"},500)
