@@ -2,28 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4ffabbb-12a9-45a4-b292-f902796951ef" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/antoshka-govno.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/antoshka.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ianocjka.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/maksimka-fuck.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/maksimka.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/serejka-fuck.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/serejka.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/maksim_kutsayev.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/humane/bigbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/humane/boldlight.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/humane/flatty.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/humane/jackedup.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/humane/libnotify.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/humane/original.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/humane.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/bouton.js" afterPath="$PROJECT_DIR$/scripts/bouton.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,8 +18,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="795">
-              <caret line="53" column="13" lean-forward="false" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
+            <state relative-caret-position="301">
+              <caret line="36" column="67" lean-forward="false" selection-start-line="36" selection-start-column="67" selection-end-line="36" selection-end-column="67" />
               <folding />
             </state>
           </provider>
@@ -48,7 +28,7 @@
       <file leaf-file-name="custom.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/custom.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
+            <state relative-caret-position="843">
               <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
               <folding>
                 <marker date="1512913883966" expanded="true" signature="651:1909" ph="..." />
@@ -299,12 +279,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1512845633699</updated>
-      <workItem from="1512845634990" duration="22257000" />
+      <workItem from="1512845634990" duration="23281000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22257000" />
+    <option name="totallyTimeSpent" value="23281000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -458,7 +438,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/custom.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
+        <state relative-caret-position="843">
           <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
           <folding>
             <marker date="1512913883966" expanded="true" signature="651:1909" ph="..." />
@@ -469,8 +449,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="53" column="13" lean-forward="false" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
+        <state relative-caret-position="301">
+          <caret line="36" column="67" lean-forward="false" selection-start-line="36" selection-start-column="67" selection-end-line="36" selection-end-column="67" />
           <folding />
         </state>
       </provider>
